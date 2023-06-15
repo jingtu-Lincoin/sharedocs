@@ -109,6 +109,10 @@ export default hopeTheme({
       tabs: true,
       vPre: true,
       vuePlayground: true,
+
+    },
+    copyCode: {
+      showInMobile: true,
     },
 
     // uncomment these if you want a pwa
