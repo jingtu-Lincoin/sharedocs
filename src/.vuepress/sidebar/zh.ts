@@ -60,7 +60,14 @@ export const zhSidebar = sidebar({
       icon: "note",
       collapsible: true,
       prefix: "shareadmin/",
-      children: "structure",
+      children: [
+        {
+          text: "入门",
+          prefix: "first/",
+          collapsible: true,
+          children: "structure"
+        }
+      ],
     },
   ],
 });

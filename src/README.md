@@ -25,7 +25,7 @@ features:
 
   - title: ShareAdmin文档
     icon: slides
-    details: 对使用TypeScript对Naive Admin的二次封装，极大的提高后台管理页面的开发效率。预计提高70%的页面开发效率
+    details: 使用TypeScript对Naive Admin的二次封装，极大的提高后台管理页面的开发效率。预计提高70%的页面开发效率
     link: /zh/shareadmin/
 
 
